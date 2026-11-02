@@ -18,7 +18,7 @@ Instant 2D Game Sprites & Retro Pixel Asset Generator powered by **Pollinations 
 ## 🛠️ Tech Stack
 - Frontend: HTML5, Tailwind CSS, Space Grotesk & Press Start 2P fonts
 - Inference Infrastructure: [Pollinations.ai](https://pollinations.ai)
-- App Key Binding: `pk_stBE87JPwGE1Wwn1`
+- App Key Binding: `pk_DJzonDcZRXo3452Q`
 
 ## 📄 License
 MIT License. Free to use and modify for commercial & indie games.
